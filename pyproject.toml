@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jobspy-google"
+version = "1.0.0"
+description = "JobSpy's scrape_jobs with a working Google Jobs source: same arguments and DataFrame, site_name='google' returns jobs again."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+authors = [{ name = "AutomationNation" }]
+keywords = ["jobspy", "google-jobs", "job-scraper", "jobs", "indeed", "linkedin", "pandas", "apify"]
+dependencies = ["python-jobspy", "pandas", "requests"]
+
+[project.urls]
+Homepage = "https://github.com/retracn/jobspy-google"
+Guide = "https://retracn.github.io/automationnation-actors/guides/jobspy-google-jobs-not-working/"
+
+[tool.setuptools]
+packages = ["jobspy_google"]

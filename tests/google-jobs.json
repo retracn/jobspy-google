@@ -1,0 +1,744 @@
+[
+ {
+  "title": "Software Engineer II (Java Full-Stack)",
+  "companyName": "JPMorganChase",
+  "location": "New York, NY",
+  "isRemote": false,
+  "via": "LinkedIn",
+  "postedAgo": "2 days ago",
+  "postedAt": "2026-10-03T14:42:26.129Z",
+  "employmentType": "Full-time",
+  "employmentTypes": [
+   "FULL_TIME"
+  ],
+  "salaryText": "124K\u2013150K a year",
+  "salaryMin": 124000,
+  "salaryMax": 150000,
+  "salaryCurrency": "USD",
+  "salaryPeriod": "YEAR",
+  "salaryYearlyMin": 124000,
+  "salaryYearlyMax": 150000,
+  "degreeRequirement": "No Degree Mentioned",
+  "description": "Job Description\n\nYou're ready to gain the skills and experience needed to grow within your role and advance your career \u2014 and we have the perfect software engineering opportunity for you.\n\nAs a Software Engineer II at JPMorganChase within the Business Banking Tech division, you are part of an agile team that works to enhance, design, and deliver the software components of the firm's state-of-the-a",
+  "qualifications": [
+   "Formal training or certification on software engineering concepts and 2+ years applied experience",
+   "Proficient in designing and developing full-stack web applications using technologies such as React.js and Java/Spring Boot, with experience applying microservices architecture patterns",
+   "Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages",
+   "Hands-on experience using enterprise-authorized AI-assisted software development tools within the work environment (e.g., for coding, testing, troubleshooting, or documentation) with demonstrated ability to critically evaluate and validate AI-generated outputs",
+   "Understanding of responsible AI use in engineering workflows, including data sensitivity considerations, secure handling of inputs/outputs, and adherence to resiliency and security expectations",
+   "Experience across the whole Software Development Life Cycle",
+   "Exposure to agile methodologies such as CI/CD, Application Resiliency, and Security"
+  ],
+  "responsibilities": [
+   "As a Software Engineer II at JPMorganChase within the Business Banking Tech division, you are part of an agile team that works to enhance, design, and deliver the software components of the firm's state-of-the-art technology products in a secure, stable, and scalable way",
+   "As an emerging member of a software engineering team, you execute software solutions through the design, development, and technical troubleshooting of multiple components within a technical product, application, or system, while gaining the skills and experience needed to grow within your role",
+   "Executes standard software solution, design, development, and technical troubleshooting",
+   "Writes secure and high-quality code using the syntax of at least one programming language with limited guidance",
+   "Leverages enterprise-authorized AI coding assist tools within the work environment to improve code quality, delivery speed, and productivity (e.g., code generation/refactoring, unit test creation, documentation), while validating outputs through peer review, automated testing, and secure coding standards",
+   "Designs, develops, codes, and troubleshoots with consideration of upstream and downstream systems and technical implications",
+   "Applies knowledge of tools within the Software Development Life Cycle toolchain, including enterprise-authorized AI-assisted development and automation capabilities, to improve the value realized by automation",
+   "Applies technical troubleshooting to breakdown solutions and solve technical problems of basic complexity",
+   "Gathers, analyzes, and draws conclusions from large, diverse data sets to identify problems and contribute to decision-making in service of secure, stable application development",
+   "Learns and applies system processes, methodologies, and skills for the development of secure, stable code and systems"
+  ],
+  "benefits": [
+   "We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location",
+   "Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions",
+   "We also offer a range of benefits and programs to meet employee needs, based on eligibility",
+   "These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more"
+  ],
+  "highlights": [
+   {
+    "title": "Qualifications",
+    "items": [
+     "Formal training or certification on software engineering concepts and 2+ years applied experience",
+     "Proficient in designing and developing full-stack web applications using technologies such as React.js and Java/Spring Boot, with experience applying microservices architecture patterns",
+     "Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages",
+     "Hands-on experience using enterprise-authorized AI-assisted software development tools within the work environment (e.g., for coding, testing, troubleshooting, or documentation) with demonstrated ability to critically evaluate and validate AI-generated outputs",
+     "Understanding of responsible AI use in engineering workflows, including data sensitivity considerations, secure handling of inputs/outputs, and adherence to resiliency and security expectations",
+     "Experience across the whole Software Development Life Cycle",
+     "Exposure to agile methodologies such as CI/CD, Application Resiliency, and Security"
+    ]
+   },
+   {
+    "title": "Benefits",
+    "items": [
+     "We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location",
+     "Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions",
+     "We also offer a range of benefits and programs to meet employee needs, based on eligibility",
+     "These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more"
+    ]
+   },
+   {
+    "title": "Responsibilities",
+    "items": [
+     "As a Software Engineer II at JPMorganChase within the Business Banking Tech division, you are part of an agile team that works to enhance, design, and deliver the software components of the firm's state-of-the-art technology products in a secure, stable, and scalable way",
+     "As an emerging member of a software engineering team, you execute software solutions through the design, development, and technical troubleshooting of multiple components within a technical product, application, or system, while gaining the skills and experience needed to grow within your role",
+     "Executes standard software solution, design, development, and technical troubleshooting",
+     "Writes secure and high-quality code using the syntax of at least one programming language with limited guidance",
+     "Leverages enterprise-authorized AI coding assist tools within the work environment to improve code quality, delivery speed, and productivity (e.g., code generation/refactoring, unit test creation, documentation), while validating outputs through peer review, automated testing, and secure coding standards",
+     "Designs, develops, codes, and troubleshoots with consideration of upstream and downstream systems and technical implications",
+     "Applies knowledge of tools within the Software Development Life Cycle toolchain, including enterprise-authorized AI-assisted development and automation capabilities, to improve the value realized by automation",
+     "Applies technical troubleshooting to breakdown solutions and solve technical problems of basic complexity",
+     "Gathers, analyzes, and draws conclusions from large, diverse data sets to identify problems and contribute to decision-making in service of secure, stable application development",
+     "Learns and applies system processes, methodologies, and skills for the development of secure, stable code and systems"
+    ]
+   }
+  ],
+  "applyUrl": "https://www.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-at-jpmorganchase-4475076659",
+  "companyDomain": null,
+  "applyLinks": [
+   {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-at-jpmorganchase-4475076659",
+    "domain": "linkedin.com"
+   },
+   {
+    "title": "Built In",
+    "url": "https://builtin.com/job/software-engineer-ii-java-full-stack/11484253",
+    "domain": "builtin.com"
+   },
+   {
+    "title": "Built In NYC",
+    "url": "https://www.builtinnyc.com/job/software-engineer-ii-java-full-stack/11484253",
+    "domain": "builtinnyc.com"
+   },
+   {
+    "title": "Indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b0d751e896e8e3ec",
+    "domain": "indeed.com"
+   },
+   {
+    "title": "Ladders",
+    "url": "https://www.theladders.com/job/software-engineer-ii-java-full-stack-jpmorganchase-new-york-ny_89171441",
+    "domain": "theladders.com"
+   },
+   {
+    "title": "Experteer",
+    "url": "https://www.experteer.be/career/view-jobs/software-engineer-iii-java-and-aws-new-york-ny-usa-59026388?signup_hook=lo_job_title",
+    "domain": "experteer.be"
+   },
+   {
+    "title": "NACCHO Career Center",
+    "url": "https://careers.naccho.org/job/software-engineer-iii-java-aws-new-york-city-ny-24c5bf092f3d9143d5ae8acb06dc7370b",
+    "domain": "careers.naccho.org"
+   },
+   {
+    "title": "BeBee",
+    "url": "https://bebee.com/us/jobs/software-engineer-iii-java-aws-jpmorgan-chase-co-new-york--techmap_us_57e61186-18fe-4011-a9a9-83f9edd3da8d",
+    "domain": "bebee.com"
+   }
+  ],
+  "jobUrl": "https://www.google.com/search?ibp=htl;jobs&q=software+engineer+jobs+in+New+York&htidocid=DBBe-bRgshAtIKeNAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNwQqCQBAAULr6CUEwx4p0I-hSdIoKhSTw5EnGZVrNbUd2tvRf-tnq8q4v-kyiQ8H3MKAnODnTOiIPaQrzDN8I55e1cRFQdwuIIeMahNDrBtjBhdlYmu6bEHrZKSViEyMBQ6sTzU_Fjmoe1YNr-VNJ8zt6i4GqzXY9Jr0zy1l2u7I36I4NCkHrIKcBSvbdCvLyC-t0yAOeAAAA&shmds=v1_ARwrE202vsIPcNE7sRRMOlP9FiOOvq3XsPmpEIFi7s2av85ZmA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=software+engineer+jobs+in+New+York&htidocid=DBBe-bRgshAtIKeNAAAAAA%3D%3D",
+  "googleJobId": "DBBe-bRgshAtIKeNAAAAAA==",
+  "tags": [
+   "2 days ago",
+   "124K-150K a year",
+   "Full-time",
+   "No Degree Mentioned",
+   "No degree mentioned",
+   "Dental insurance",
+   "Health insurance"
+  ],
+  "searchQuery": "software engineer",
+  "searchLocation": "New York",
+  "country": "us",
+  "language": "en",
+  "position": 1,
+  "isNew": null,
+  "scrapedAt": "2026-10-05T14:42:26.129Z"
+ },
+ {
+  "title": "Sr Staff Software Engineer",
+  "companyName": "Intuit",
+  "location": "New York, NY",
+  "isRemote": false,
+  "via": "Intuit Careers",
+  "postedAgo": "7 days ago",
+  "postedAt": "2026-09-28T14:42:26.129Z",
+  "employmentType": "Full-time",
+  "employmentTypes": [
+   "FULL_TIME"
+  ],
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryPeriod": null,
+  "salaryYearlyMin": null,
+  "salaryYearlyMax": null,
+  "degreeRequirement": null,
+  "description": "Come join the Intuit Enterprise Builders team as a Senior Staff Software Engineer. As Intuit expands its footprint in the Mid-Market and Enterprise segment, you will be part of the group enabling the product to be able to expand into various industries by leveraging AI and relevant technology frameworks. In this role, you will partner closely with Sales, Product, and Engineering teams to solve com",
+  "qualifications": [
+   "10+ years of experience in software engineering, solutions architecture, or sales engineering roles",
+   "Proficiency in cloud-based architectures (AWS, Azure, GCP), SaaS platforms, cloud infrastructure and an understanding of container technologies (Docker, Kubernetes)",
+   "Strong technical background with experience designing and integrating APIs or enterprise software systems",
+   "Experience with programming languages such as Python and Java",
+   "Experience working in cross-functional environments, especially with product, engineering, and sales teams",
+   "Knowledge of enterprise integration patterns, security, scalability, and performance best practices",
+   "Thorough understanding of DevOps, CI/CD methodologies, and agile development practices",
+   "Strong knowledge of API frameworks and microservices architecture",
+   "Exceptional problem-solving with a hands-on approach to resolving engineering blockers",
+   "Proven ability to communicate complex technical concepts to both technical and non-technical stakeholders",
+   "A proven track record of working with large enterprise customers and leading high-impact technical projects",
+   "Bachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, or a related technical field"
+  ],
+  "responsibilities": [
+   "As Intuit expands its footprint in the Mid-Market and Enterprise segment, you will be part of the group enabling the product to be able to expand into various industries by leveraging AI and relevant technology frameworks",
+   "In this role, you will partner closely with Sales, Product, and Engineering teams to solve complex technical challenges that block new customer acquisition and onboarding",
+   "You will be crucial in helping Intuit\u2019s largest, most sophisticated customers solve their most pressing business challenges by leveraging the Intuit Enterprise Suite to its full capability and crafting tailored solutions, enabling our partners and clients to thrive in the digitized financial environment",
+   "Develop an in-depth understanding of the Intuit Enterprise Suite architecture, its components, and the business problems it solves",
+   "Evaluate partner and customer technical requirements to design and deliver tailored solutions that integrate seamlessly with their existing systems",
+   "Collaborate with enterprise sales and pre-sales teams to understand customer requirements and translate them into scalable technical solutions",
+   "Dive deep into system specifications, capacity planning, and technology stacks to ensure the effective and efficient use of Intuit Enterprise Suite",
+   "Identify and solve high-impact engineering challenges that affect new enterprise customer acquisition and onboarding",
+   "Design and prototype custom or reusable solution patterns to address gaps in product capability or integration",
+   "Lead and facilitate discussions on complex customer deals, system integrations, assessing compatibility, acknowledging limitations, and explaining technical intricacies",
+   "Collaborate with cross-functional teams\u2014including Engineering, Sales, Professional Services, and Product Management\u2014to translate business needs into robust and scalable technology solutions",
+   "Provide input to Product Management on the most pressing product gaps and roadmap prioritization",
+   "Educate and guide sales teams on technological capabilities and constraints to ensure integrity and trust in customer interactions",
+   "Create documentation, reference architectures, and onboarding playbooks to support repeatability and scale",
+   "Support post-sale handoff to implementation or customer success teams, ensuring continuity and clarity in the solution architecture"
+  ],
+  "benefits": [
+   "Intuit provides a competitive compensation package with a strong pay for performance rewards approach",
+   "This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit\u00ae: Careers | Benefits)",
+   "Pay offered is based on factors such as job-related knowledge, skills, experience, and work location",
+   "New York $220,500 - $298,000"
+  ],
+  "highlights": [
+   {
+    "title": "Qualifications",
+    "items": [
+     "10+ years of experience in software engineering, solutions architecture, or sales engineering roles",
+     "Proficiency in cloud-based architectures (AWS, Azure, GCP), SaaS platforms, cloud infrastructure and an understanding of container technologies (Docker, Kubernetes)",
+     "Strong technical background with experience designing and integrating APIs or enterprise software systems",
+     "Experience with programming languages such as Python and Java",
+     "Experience working in cross-functional environments, especially with product, engineering, and sales teams",
+     "Knowledge of enterprise integration patterns, security, scalability, and performance best practices",
+     "Thorough understanding of DevOps, CI/CD methodologies, and agile development practices",
+     "Strong knowledge of API frameworks and microservices architecture",
+     "Exceptional problem-solving with a hands-on approach to resolving engineering blockers",
+     "Proven ability to communicate complex technical concepts to both technical and non-technical stakeholders",
+     "A proven track record of working with large enterprise customers and leading high-impact technical projects",
+     "Bachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, or a related technical field"
+    ]
+   },
+   {
+    "title": "Benefits",
+    "items": [
+     "Intuit provides a competitive compensation package with a strong pay for performance rewards approach",
+     "This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit\u00ae: Careers | Benefits)",
+     "Pay offered is based on factors such as job-related knowledge, skills, experience, and work location",
+     "New York $220,500 - $298,000"
+    ]
+   },
+   {
+    "title": "Responsibilities",
+    "items": [
+     "As Intuit expands its footprint in the Mid-Market and Enterprise segment, you will be part of the group enabling the product to be able to expand into various industries by leveraging AI and relevant technology frameworks",
+     "In this role, you will partner closely with Sales, Product, and Engineering teams to solve complex technical challenges that block new customer acquisition and onboarding",
+     "You will be crucial in helping Intuit\u2019s largest, most sophisticated customers solve their most pressing business challenges by leveraging the Intuit Enterprise Suite to its full capability and crafting tailored solutions, enabling our partners and clients to thrive in the digitized financial environment",
+     "Develop an in-depth understanding of the Intuit Enterprise Suite architecture, its components, and the business problems it solves",
+     "Evaluate partner and customer technical requirements to design and deliver tailored solutions that integrate seamlessly with their existing systems",
+     "Collaborate with enterprise sales and pre-sales teams to understand customer requirements and translate them into scalable technical solutions",
+     "Dive deep into system specifications, capacity planning, and technology stacks to ensure the effective and efficient use of Intuit Enterprise Suite",
+     "Identify and solve high-impact engineering challenges that affect new enterprise customer acquisition and onboarding",
+     "Design and prototype custom or reusable solution patterns to address gaps in product capability or integration",
+     "Lead and facilitate discussions on complex customer deals, system integrations, assessing compatibility, acknowledging limitations, and explaining technical intricacies",
+     "Collaborate with cross-functional teams\u2014including Engineering, Sales, Professional Services, and Product Management\u2014to translate business needs into robust and scalable technology solutions",
+     "Provide input to Product Management on the most pressing product gaps and roadmap prioritization",
+     "Educate and guide sales teams on technological capabilities and constraints to ensure integrity and trust in customer interactions",
+     "Create documentation, reference architectures, and onboarding playbooks to support repeatability and scale",
+     "Support post-sale handoff to implementation or customer success teams, ensuring continuity and clarity in the solution architecture"
+    ]
+   }
+  ],
+  "applyUrl": "https://jobs.intuit.com/job/new-york/sr-staff-software-engineer/27595/101362216624",
+  "companyDomain": "intuit.com",
+  "applyLinks": [
+   {
+    "title": "Intuit Careers",
+    "url": "https://jobs.intuit.com/job/new-york/sr-staff-software-engineer/27595/101362216624",
+    "domain": "jobs.intuit.com"
+   },
+   {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/sr-staff-software-engineer-at-intuit-4474158204",
+    "domain": "linkedin.com"
+   },
+   {
+    "title": "ZipRecruiter",
+    "url": "https://www.ziprecruiter.com/c/Intuit/Job/Senior-Staff-Software-Engineer/-in-New-York,NY?jid=b93cf07bafd893f0",
+    "domain": "ziprecruiter.com"
+   },
+   {
+    "title": "Indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7cb291ac8cb4746d",
+    "domain": "indeed.com"
+   },
+   {
+    "title": "CareerBuilder",
+    "url": "https://www.careerbuilder.com/job-details/sr-staff-software-engineer-new-york-ny--58ea3c8c-4362-4560-b160-3fd8c00cf348",
+    "domain": "careerbuilder.com"
+   },
+   {
+    "title": "Jobright",
+    "url": "https://jobright.ai/jobs/info/6abd5aed4ac55253f5d5cf9f?visit=software-eng%2C-sr-staff-jobs-in-united-states",
+    "domain": "jobright.ai"
+   },
+   {
+    "title": "Monster",
+    "url": "https://www.monster.com/job-openings/sr-staff-software-engineer-new-york-ny--58ea3c8c-4362-4560-b160-3fd8c00cf348",
+    "domain": "monster.com"
+   },
+   {
+    "title": "Ladders",
+    "url": "https://www.theladders.com/job/sr-staff-software-engineer-intuit-new-york-ny_89141266",
+    "domain": "theladders.com"
+   }
+  ],
+  "jobUrl": "https://www.google.com/search?ibp=htl;jobs&q=software+engineer+jobs+in+New+York&htidocid=pQBRdFyCJSp6FOc_AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMoQ7CMBAA0GD3AQjUaQItkGBAEwJiZmpq6ZprVxh3Te_I9gl8NmCefNVnUe2bAo26EKDhoJMrCBeKiRALbOHOPQi64gdggitzHHF1HlSznKwVGU0UdZq88fyyTNjzbB_cy59Ohl-XR6fYHY672WSK6-WN9J0UEkGNE7Rcnhuo2y_TxFfmiwAAAA&shmds=v1_ARwrE23avKHrfWUOfMH8ZBTV5grGuW4yN1jcUhe2ghPailPvjA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=software+engineer+jobs+in+New+York&htidocid=pQBRdFyCJSp6FOc_AAAAAA%3D%3D",
+  "googleJobId": "pQBRdFyCJSp6FOc_AAAAAA==",
+  "tags": [
+   "7 days ago",
+   "Full-time",
+   "Health insurance"
+  ],
+  "searchQuery": "software engineer",
+  "searchLocation": "New York",
+  "country": "us",
+  "language": "en",
+  "position": 2,
+  "isNew": null,
+  "scrapedAt": "2026-10-05T14:42:26.129Z"
+ },
+ {
+  "title": "Software / Data Engineer (First Technology Hire - NYC Private Equity)",
+  "companyName": "Averity",
+  "location": "New York, NY",
+  "isRemote": false,
+  "via": "LinkedIn",
+  "postedAgo": "3 days ago",
+  "postedAt": "2026-10-02T14:42:26.129Z",
+  "employmentType": "Full-time",
+  "employmentTypes": [
+   "FULL_TIME"
+  ],
+  "salaryText": "125K\u2013175K a year",
+  "salaryMin": 125000,
+  "salaryMax": 175000,
+  "salaryCurrency": "USD",
+  "salaryPeriod": "YEAR",
+  "salaryYearlyMin": 125000,
+  "salaryYearlyMax": 175000,
+  "degreeRequirement": null,
+  "description": "How would you like to be the first technology hire at a NYC private equity firm - handed a blank sheet of paper to build their entire tech stack and data strategy from the ground up?\n\nWhat's The Job?\n\nAs our first technology hire, you will own the modernization of our tech stack and the build-out of our data strategy. Almost nothing is built yet. Outside of Microsoft 365 and our CRM, you are choos",
+  "qualifications": [
+   "1-4 years of professional experience as a Software Engineer, Data Engineer, Analytics Engineer, Data Analyst, Business Intelligence Developer or Business Systems Analyst",
+   "Strong SQL, plus Python (or similar) for automation and data work",
+   "Working knowledge of the Microsoft ecosystem: Microsoft 365, Power BI, Power Automate / Power Apps",
+   "Experience building or maintaining data pipelines, ETL, system integrations or reporting",
+   "The polish and professional maturity to operate inside a private equity firm",
+   "Bachelor's degree in Computer Science, Information Systems, Engineering or a related field",
+   "You must be a US Citizen or Green Card Holder"
+  ],
+  "responsibilities": [
+   "Building the data foundation our investment, asset management and finance teams run on - pipelines, integrations, and one source of truth for portfolio and property data",
+   "Automating the manual processes that live in spreadsheets and inboxes today, using Python, SQL, Power Automate and Power Apps",
+   "Standing up reporting and dashboards in Power BI so the partners can see performance without waiting on a manual roll-up",
+   "Connecting our CRM, accounting systems and third-party real estate data sources",
+   "Acting as the internal expert - recommending the platforms we adopt and owning the roadmap we follow",
+   "You would be building it",
+   "You will be sitting with the CFO and the partners, not behind a ticket queue"
+  ],
+  "benefits": [
+   "$125,000 - $175,000 base salary",
+   "Annual bonus, targeted at 15-30% in year one",
+   "Full benefits package",
+   "4 days on site in our Park Avenue office (Monday-Thursday), remote on Fridays"
+  ],
+  "highlights": [
+   {
+    "title": "Qualifications",
+    "items": [
+     "1-4 years of professional experience as a Software Engineer, Data Engineer, Analytics Engineer, Data Analyst, Business Intelligence Developer or Business Systems Analyst",
+     "Strong SQL, plus Python (or similar) for automation and data work",
+     "Working knowledge of the Microsoft ecosystem: Microsoft 365, Power BI, Power Automate / Power Apps",
+     "Experience building or maintaining data pipelines, ETL, system integrations or reporting",
+     "The polish and professional maturity to operate inside a private equity firm",
+     "Bachelor's degree in Computer Science, Information Systems, Engineering or a related field",
+     "You must be a US Citizen or Green Card Holder"
+    ]
+   },
+   {
+    "title": "Benefits",
+    "items": [
+     "$125,000 - $175,000 base salary",
+     "Annual bonus, targeted at 15-30% in year one",
+     "Full benefits package",
+     "4 days on site in our Park Avenue office (Monday-Thursday), remote on Fridays"
+    ]
+   },
+   {
+    "title": "Responsibilities",
+    "items": [
+     "Building the data foundation our investment, asset management and finance teams run on - pipelines, integrations, and one source of truth for portfolio and property data",
+     "Automating the manual processes that live in spreadsheets and inboxes today, using Python, SQL, Power Automate and Power Apps",
+     "Standing up reporting and dashboards in Power BI so the partners can see performance without waiting on a manual roll-up",
+     "Connecting our CRM, accounting systems and third-party real estate data sources",
+     "Acting as the internal expert - recommending the platforms we adopt and owning the roadmap we follow",
+     "You would be building it",
+     "You will be sitting with the CFO and the partners, not behind a ticket queue"
+    ]
+   }
+  ],
+  "applyUrl": "https://www.linkedin.com/jobs/view/software-data-engineer-first-technology-hire-nyc-private-equity-at-averity-4473191168",
+  "companyDomain": null,
+  "applyLinks": [
+   {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/software-data-engineer-first-technology-hire-nyc-private-equity-at-averity-4473191168",
+    "domain": "linkedin.com"
+   },
+   {
+    "title": "BeBee",
+    "url": "https://bebee.com/us/jobs/software-data-engineer-first-technology-hire-nyc-private-equity-averity-new-york-new-york-united-sta--appcast-10440_4473191168",
+    "domain": "bebee.com"
+   },
+   {
+    "title": "Talent.com",
+    "url": "https://www.talent.com/view?id=640124882622746316",
+    "domain": "talent.com"
+   },
+   {
+    "title": "Recruit.net",
+    "url": "https://www.recruit.net/job/software-data-engineer-first-technology-jobs/952160338A89475E",
+    "domain": "recruit.net"
+   }
+  ],
+  "jobUrl": "https://www.google.com/search?ibp=htl;jobs&q=software+engineer+jobs+in+New+York&htidocid=fplVD6NzqcGb_8UAAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOvQrCMBSFce0LCE53VNFGBBedRKviIIIuBaGk4ZpGa25Nrv15Lx_QuJzh4_CdE3170e1Cd26kQxCwlSwhsdpYRAfDnXGe4YqqsFSS7uBgQm0Kp3QDZ2dqyQjJ-2O4GwV6pBw8SqcKIAt7Il3iYFUwV34phPdlrD1LNipW9BJkMadWPCj3_8h8ES5UZVBm88WsjSurx_11jS7YwVg4YQMpueckrP8AWYk8zrcAAAA&shmds=v1_ARwrE20bK3o4sb3ws-QOoE28mRUE6hR2y_FoMNoNptqvGIk-cw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=software+engineer+jobs+in+New+York&htidocid=fplVD6NzqcGb_8UAAAAAAA%3D%3D",
+  "googleJobId": "fplVD6NzqcGb_8UAAAAAAA==",
+  "tags": [
+   "3 days ago",
+   "125K-175K a year",
+   "Full-time",
+   "Health insurance"
+  ],
+  "searchQuery": "software engineer",
+  "searchLocation": "New York",
+  "country": "us",
+  "language": "en",
+  "position": 3,
+  "isNew": null,
+  "scrapedAt": "2026-10-05T14:42:26.129Z"
+ },
+ {
+  "title": "Senior Software Engineer I, Core Objects",
+  "companyName": "Braze",
+  "location": "New York, NY",
+  "isRemote": false,
+  "via": "LinkedIn",
+  "postedAgo": "3 days ago",
+  "postedAt": "2026-10-02T14:42:26.129Z",
+  "employmentType": "Full-time",
+  "employmentTypes": [
+   "FULL_TIME"
+  ],
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryPeriod": null,
+  "salaryYearlyMin": null,
+  "salaryYearlyMax": null,
+  "degreeRequirement": "No Degree Mentioned",
+  "description": "At Braze, we have found our people. We\u2019re a genuinely approachable, exceptionally kind, and intensely passionate crew.\n\nWe seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity \u2013 inside and outside our organization.\n\nTo flourish here, yo",
+  "qualifications": [
+   "5+ years of full-stack development experience",
+   "Experienced technical leader",
+   "Strong understanding of design, data structures, and algorithms",
+   "A self-starter with great communication and organizational skills and will have worked in a team environment before",
+   "Professional experience building software at scale",
+   "Professional experience with one or more of Ruby, Ruby on Rails, React, Go, SQL, and NoSQL databases, distributed systems, API design/monitoring/best practices",
+   "Experience with agile processes",
+   "Passionate about customer experience"
+  ],
+  "responsibilities": [
+   "Core data objects are at the base of Braze's product offering and power our industry-leading customer engagement tool",
+   "You\u2019ll take on a variety of challenges as we set out to build new exciting projects in extending and building our Core Objects systems and features",
+   "This includes using AI to analyze the experience, skills and qualifications in your application materials to help with screening and prioritizing candidates"
+  ],
+  "benefits": [
+   "For candidates based in the United States, the pay range for this position at the start of employment is expected to be between $128,842 and $232,200/year, with an expected On Target Earnings (OTE) between $144,000 and $258,000/year (including bonus or commission)",
+   "In addition to cash compensation, this role qualifies for a comprehensive Total Rewards package that includes equity grants of restricted stock (RSUs) so that you will own a piece of our company",
+   "Braze benefits vary by location, and we encourage you to review our specific benefits offerings for each country at here",
+   "More details on benefits plans will be provided if you receive an offer of employment",
+   "From offering comprehensive benefits to fostering hybrid ways of working, we've got you covered so you can prioritize work-life harmony",
+   "Braze offers benefits such as:",
+   "Competitive compensation that may include equity",
+   "Retirement and Employee Stock Purchase Plans",
+   "Flexible paid time off",
+   "Comprehensive benefit plans covering medical, dental, vision, life, and disability",
+   "Family services that include fertility benefits and equal paid parental leave",
+   "Professional development supported by formal career pathing, learning platforms, and a yearly learning stipend",
+   "A curated in-office employee experience, designed to foster community, team connections, and innovation",
+   "Opportunities to give back to your community, including an annual company-wide Volunteer Week and donation matching",
+   "Employee Resource Groups that provide supportive communities within Braze",
+   "Collaborative, transparent, and fun culture recognized as a Great Place to Work\u00ae"
+  ],
+  "highlights": [
+   {
+    "title": "Qualifications",
+    "items": [
+     "5+ years of full-stack development experience",
+     "Experienced technical leader",
+     "Strong understanding of design, data structures, and algorithms",
+     "A self-starter with great communication and organizational skills and will have worked in a team environment before",
+     "Professional experience building software at scale",
+     "Professional experience with one or more of Ruby, Ruby on Rails, React, Go, SQL, and NoSQL databases, distributed systems, API design/monitoring/best practices",
+     "Experience with agile processes",
+     "Passionate about customer experience"
+    ]
+   },
+   {
+    "title": "Benefits",
+    "items": [
+     "For candidates based in the United States, the pay range for this position at the start of employment is expected to be between $128,842 and $232,200/year, with an expected On Target Earnings (OTE) between $144,000 and $258,000/year (including bonus or commission)",
+     "In addition to cash compensation, this role qualifies for a comprehensive Total Rewards package that includes equity grants of restricted stock (RSUs) so that you will own a piece of our company",
+     "Braze benefits vary by location, and we encourage you to review our specific benefits offerings for each country at here",
+     "More details on benefits plans will be provided if you receive an offer of employment",
+     "From offering comprehensive benefits to fostering hybrid ways of working, we've got you covered so you can prioritize work-life harmony",
+     "Braze offers benefits such as:",
+     "Competitive compensation that may include equity",
+     "Retirement and Employee Stock Purchase Plans",
+     "Flexible paid time off",
+     "Comprehensive benefit plans covering medical, dental, vision, life, and disability",
+     "Family services that include fertility benefits and equal paid parental leave",
+     "Professional development supported by formal career pathing, learning platforms, and a yearly learning stipend",
+     "A curated in-office employee experience, designed to foster community, team connections, and innovation",
+     "Opportunities to give back to your community, including an annual company-wide Volunteer Week and donation matching",
+     "Employee Resource Groups that provide supportive communities within Braze",
+     "Collaborative, transparent, and fun culture recognized as a Great Place to Work\u00ae"
+    ]
+   },
+   {
+    "title": "Responsibilities",
+    "items": [
+     "Core data objects are at the base of Braze's product offering and power our industry-leading customer engagement tool",
+     "You\u2019ll take on a variety of challenges as we set out to build new exciting projects in extending and building our Core Objects systems and features",
+     "This includes using AI to analyze the experience, skills and qualifications in your application materials to help with screening and prioritizing candidates"
+    ]
+   }
+  ],
+  "applyUrl": "https://www.linkedin.com/jobs/view/senior-software-engineer-i-core-objects-at-braze-4474796547",
+  "companyDomain": null,
+  "applyLinks": [
+   {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-i-core-objects-at-braze-4474796547",
+    "domain": "linkedin.com"
+   },
+   {
+    "title": "Welcome To The Jungle",
+    "url": "https://www.welcometothejungle.com/en/companies/braze/jobs/senior-software-engineer-i-core-objects_new-york_343xx5of",
+    "domain": "welcometothejungle.com"
+   },
+   {
+    "title": "Built In",
+    "url": "https://builtin.com/job/senior-software-engineer-i-core-objects/11487172",
+    "domain": "builtin.com"
+   },
+   {
+    "title": "The Muse",
+    "url": "https://www.themuse.com/jobs/braze/senior-software-engineer-i-core-objects-4569bb",
+    "domain": "themuse.com"
+   },
+   {
+    "title": "Built In NYC",
+    "url": "https://www.builtinnyc.com/job/senior-software-engineer-i-core-objects/11487172",
+    "domain": "builtinnyc.com"
+   },
+   {
+    "title": "Indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c6d180f682bbb54c",
+    "domain": "indeed.com"
+   },
+   {
+    "title": "BeBee",
+    "url": "https://bebee.com/us/jobs/senior-software-engineer-i-core-objects-braze-new-york--fj-2394789496",
+    "domain": "bebee.com"
+   },
+   {
+    "title": "Blumberg Capital Job Board",
+    "url": "https://careers.blumbergcapital.com/companies/braze/jobs/95748123-senior-software-engineer-i-core-objects",
+    "domain": "careers.blumbergcapital.com"
+   }
+  ],
+  "jobUrl": "https://www.google.com/search?ibp=htl;jobs&q=software+engineer+jobs+in+New+York&htidocid=CbY6tHH7qzH9lwfvAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVy7uzjdLLURwUUHQRHRoQ6dOpUknGlqvSu5g4rv4ftal3_4hj_7zrJDhRQ5QcUPHW1COFOIhJjgmsOJJ7i7Dr0KrODGDgRt8i0wwYU59LjYt6qD7IwR6YsgajX6wvPLMKHjt-nYyT-NtNN-6K1is9mu38VAYTk_JvtBiAQljlBzeuZQ1j_3l9dYmAAAAA&shmds=v1_ARwrE23vINjsQmFb68O_lOHywdzdJiSdeyADEsxHU_w-Na1g7g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=software+engineer+jobs+in+New+York&htidocid=CbY6tHH7qzH9lwfvAAAAAA%3D%3D",
+  "googleJobId": "CbY6tHH7qzH9lwfvAAAAAA==",
+  "tags": [
+   "3 days ago",
+   "Full-time",
+   "No Degree Mentioned",
+   "No degree mentioned",
+   "Health insurance",
+   "Dental insurance",
+   "Paid time off"
+  ],
+  "searchQuery": "software engineer",
+  "searchLocation": "New York",
+  "country": "us",
+  "language": "en",
+  "position": 4,
+  "isNew": null,
+  "scrapedAt": "2026-10-05T14:42:26.129Z"
+ },
+ {
+  "title": "Staff Software Engineer, Credit",
+  "companyName": "Intuit",
+  "location": "New York, NY",
+  "isRemote": false,
+  "via": "Intuit Careers",
+  "postedAgo": "8 days ago",
+  "postedAt": "2026-09-27T14:42:26.129Z",
+  "employmentType": "Full-time",
+  "employmentTypes": [
+   "FULL_TIME"
+  ],
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryPeriod": null,
+  "salaryYearlyMin": null,
+  "salaryYearlyMax": null,
+  "degreeRequirement": null,
+  "description": "Come join Intuit Credit Karma as a Staff Software Engineer on the Credit team.\n\nOur Credit team builds the systems that help millions of members understand their credit, see where they stand, and find financial products they actually qualify for. The work spans high-volume data ingestion from bureaus and partners, the services that model and surface a member's credit profile, and the recommendatio",
+  "qualifications": [
+   "5+ years of professional software engineering experience, including significant time at a senior or staff level",
+   "Demonstrated ownership of large-scale distributed systems in production, including design, scaling, and operational responsibility",
+   "Track record of technical leadership across teams, influencing outcomes through design and persuasion rather than authority",
+   "Experience mentoring engineers and improving engineering practices at a team or organizational level",
+   "Strong written and verbal communication, with the ability to make technical tradeoffs legible to product and business partners",
+   "Bachelor's degree in Computer Science or equivalent practical experience"
+  ],
+  "responsibilities": [
+   "The work spans high-volume data ingestion from bureaus and partners, the services that model and surface a member's credit profile, and the recommendation and eligibility logic that connects members to offers",
+   "As a Staff Software Engineer, you'll operate as a technical leader across multiple teams",
+   "You'll set direction on architecture that others build against, take on the problems where the right approach isn't yet obvious, and raise the engineering bar through design review, mentorship, and the standards you establish",
+   "This is a hands-on role: you'll still write and review code, but your leverage comes from decisions that shape systems well beyond what you personally build",
+   "Set technical direction for complex, cross-team initiatives in the credit domain, from problem framing through architecture, delivery, and operation in production",
+   "Design and build distributed services that handle high request volumes and sensitive financial data with strong reliability, latency, and correctness guarantees",
+   "Identify the highest-leverage technical problems facing the team and drive them to resolution, including work that spans organizational boundaries",
+   "Partner closely with product, data science, analytics, and risk to translate ambiguous business goals into durable technical plans",
+   "Raise engineering quality across the org through design reviews, code reviews, testing strategy, observability, and incident response practices",
+   "Mentor and grow engineers, helping senior engineers take on larger scope and develop their own technical judgment",
+   "Make deliberate tradeoffs between speed and long-term maintainability, and communicate the reasoning clearly to both engineering and non-engineering stakeholders",
+   "Contribute to the team's technical roadmap and influence platform and tooling decisions that affect adjacent teams"
+  ],
+  "benefits": [
+   "Intuit provides a competitive compensation package with a strong pay for performance rewards approach",
+   "This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit\u00ae: Careers | Benefits)",
+   "Pay offered is based on factors such as job-related knowledge, skills, experience, and work location",
+   "New York $202,500 - $274,000"
+  ],
+  "highlights": [
+   {
+    "title": "Qualifications",
+    "items": [
+     "5+ years of professional software engineering experience, including significant time at a senior or staff level",
+     "Demonstrated ownership of large-scale distributed systems in production, including design, scaling, and operational responsibility",
+     "Track record of technical leadership across teams, influencing outcomes through design and persuasion rather than authority",
+     "Experience mentoring engineers and improving engineering practices at a team or organizational level",
+     "Strong written and verbal communication, with the ability to make technical tradeoffs legible to product and business partners",
+     "Bachelor's degree in Computer Science or equivalent practical experience"
+    ]
+   },
+   {
+    "title": "Benefits",
+    "items": [
+     "Intuit provides a competitive compensation package with a strong pay for performance rewards approach",
+     "This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit\u00ae: Careers | Benefits)",
+     "Pay offered is based on factors such as job-related knowledge, skills, experience, and work location",
+     "New York $202,500 - $274,000"
+    ]
+   },
+   {
+    "title": "Responsibilities",
+    "items": [
+     "The work spans high-volume data ingestion from bureaus and partners, the services that model and surface a member's credit profile, and the recommendation and eligibility logic that connects members to offers",
+     "As a Staff Software Engineer, you'll operate as a technical leader across multiple teams",
+     "You'll set direction on architecture that others build against, take on the problems where the right approach isn't yet obvious, and raise the engineering bar through design review, mentorship, and the standards you establish",
+     "This is a hands-on role: you'll still write and review code, but your leverage comes from decisions that shape systems well beyond what you personally build",
+     "Set technical direction for complex, cross-team initiatives in the credit domain, from problem framing through architecture, delivery, and operation in production",
+     "Design and build distributed services that handle high request volumes and sensitive financial data with strong reliability, latency, and correctness guarantees",
+     "Identify the highest-leverage technical problems facing the team and drive them to resolution, including work that spans organizational boundaries",
+     "Partner closely with product, data science, analytics, and risk to translate ambiguous business goals into durable technical plans",
+     "Raise engineering quality across the org through design reviews, code reviews, testing strategy, observability, and incident response practices",
+     "Mentor and grow engineers, helping senior engineers take on larger scope and develop their own technical judgment",
+     "Make deliberate tradeoffs between speed and long-term maintainability, and communicate the reasoning clearly to both engineering and non-engineering stakeholders",
+     "Contribute to the team's technical roadmap and influence platform and tooling decisions that affect adjacent teams"
+    ]
+   }
+  ],
+  "applyUrl": "https://jobs.intuit.com/job/new-york/staff-software-engineer-credit/27595/101279564384",
+  "companyDomain": "intuit.com",
+  "applyLinks": [
+   {
+    "title": "Intuit Careers",
+    "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer-credit/27595/101279564384",
+    "domain": "jobs.intuit.com"
+   },
+   {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-credit-at-intuit-4473226406",
+    "domain": "linkedin.com"
+   },
+   {
+    "title": "Indeed",
+    "url": "https://www.indeed.com/viewjob?jk=238ef63bcb6ad5d2",
+    "domain": "indeed.com"
+   },
+   {
+    "title": "ZipRecruiter",
+    "url": "https://www.ziprecruiter.com/c/intuit/Job/Staff-Software-Engineer,-Credit/-in-New-York,NY?jid=dbf88c2ddc965b22",
+    "domain": "ziprecruiter.com"
+   },
+   {
+    "title": "CareerBuilder",
+    "url": "https://www.careerbuilder.com/job-details/staff-software-engineer-credit-new-york-ny--87d13081-4fec-4665-9590-d040209c9dad",
+    "domain": "careerbuilder.com"
+   },
+   {
+    "title": "Jobright",
+    "url": "https://jobright.ai/jobs/info/6abad2ef7220f52e62ae8741?visit=software-engineer%2C-loans-originations-jobs-in-united-states",
+    "domain": "jobright.ai"
+   },
+   {
+    "title": "Monster",
+    "url": "https://www.monster.com/job-openings/staff-software-engineer-credit-new-york-ny--87d13081-4fec-4665-9590-d040209c9dad",
+    "domain": "monster.com"
+   },
+   {
+    "title": "Ladders",
+    "url": "https://www.theladders.com/job/staff-software-engineer-credit-intuit-new-york-ny_89115383",
+    "domain": "theladders.com"
+   }
+  ],
+  "jobUrl": "https://www.google.com/search?ibp=htl;jobs&q=software+engineer+jobs+in+New+York&htidocid=4gCX3we2seBvU0_lAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBAA0LjyAQ5ONxukxkQHHY0xOrAwMZEWj1Ktd6R3Bn7CfxaXN77su8gOldqug4o7HW1CuJAPhJhyOCd8BIUN3NmBoE1tD0xwZfYRV6dedZCjMSKx8KJWQ1u0_DZM6HgyT3byp5F-bodoFZvdfjsVA_n18kb6me9AUOIINadXDmX9A6D4jLyQAAAA&shmds=v1_ARwrE22xNaEPmTzCYtN7nlEpwfdANYNtgHQmveYpK8LL29qqjA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=software+engineer+jobs+in+New+York&htidocid=4gCX3we2seBvU0_lAAAAAA%3D%3D",
+  "googleJobId": "4gCX3we2seBvU0_lAAAAAA==",
+  "tags": [
+   "8 days ago",
+   "Full-time",
+   "Health insurance"
+  ],
+  "searchQuery": "software engineer",
+  "searchLocation": "New York",
+  "country": "us",
+  "language": "en",
+  "position": 5,
+  "isNew": null,
+  "scrapedAt": "2026-10-05T14:42:26.129Z"
+ }
+]
